@@ -1,4 +1,4 @@
-## Hi there. I'm [Nenad!](https://github.com/cfex):alien:
+## Hi there. I'm [Nenad!](https://cfex.github.io/portfolio/):alien:
 
 passionate, self-taught, Software Developer from Serbia
 
