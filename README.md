@@ -28,7 +28,7 @@
   <a href="mailto:jevtic.nnd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />      
   </a>&nbsp;&nbsp;
-   <a href="mailto:jevtic.nnd@gmail.com">
+   <a href="https://drive.google.com/file/d/1zDUdHFhRfiwOnzfKxMSD4fqQP_xB8RKG/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-view-red?style=for-the-badge&logoColor=white" />      
   </a>&nbsp;&nbsp;
 </p>
